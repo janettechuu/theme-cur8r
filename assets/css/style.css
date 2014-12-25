@@ -22,7 +22,7 @@ body {
   font-family: 'Lato', helvetica, sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #e7e2d0;
+  background-color: #fff;
   font-size: 100%;
   /* 16px */
   line-height: 1.5;
@@ -211,7 +211,7 @@ div.mobile-nav ul li a {
   color: #464748;
 }
 div.mobile-nav ul li a:hover {
-  background-color: #44a084;
+  background-color: #ffffff;
   color: #ffffff;
 }
 div.mobile-nav ul li a.mobile-social-link {
@@ -230,7 +230,7 @@ div.right {
   right: 0;
   width: 20%;
   height: 100%;
-  background-color: #f4f3e9;
+  background-color: #ffffff;
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -286,12 +286,12 @@ ul.tags li a {
   border-radius: 7px;
   font-size: 0.75rem;
   font-weight: 700;
-  background-color: #b9b9b9;
+  background-color: #ffffff;
   color: #ffffff;
   padding: 1px 7px 3px 7px;
 }
 ul.tags li a:hover {
-  background-color: #44a084;
+  background-color: #ffffff;
 }
 form {
   display: block;
@@ -552,7 +552,7 @@ div.post div.post-body .post-content .post-pdf .pdf-fullscreen {
   color: #000;
   font-size: 12px;
   padding: 10px;
-  background-color: #1abc9c;
+  background-color: #ffffff;
   border-radius: 7px;
   -moz-opacity: 0.3;
   -khtml-opacity: 0.3;
@@ -651,7 +651,7 @@ div.pagination {
   box-sizing: border-box;
   display: block;
   clear: both;
-  background-color: #f4f3e9;
+  background-color: #ffffff;
   padding: 30px 35px 30px 35px;
 }
 div.pagination a {
@@ -786,7 +786,7 @@ div.pagination:after {
   left: 30px;
   color: #000;
   font-size: 12px;
-  background-color: #44a084;
+  background-color: #ffffff;
   padding: 10px;
   border-radius: 7px;
   -moz-opacity: 0.3;
@@ -858,7 +858,7 @@ div.pagination:after {
 .login input.input-submit {
   color: #fff;
   border: 0;
-  background-color: #2eb18d;
+  background-color: #191919;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
